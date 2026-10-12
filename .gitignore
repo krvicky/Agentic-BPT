@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.egg-info/
+.python/
+.uv-cache/
+
+# Local credentials; retain the safe template.
+.env
+.env.*
+!.env.example
+
+# Local source/evidence artifacts
+evidence-store/
+evidence-output/
+smoke-evidence-store/
+smoke-evidence-output/

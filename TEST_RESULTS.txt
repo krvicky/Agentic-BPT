@@ -1,0 +1,14 @@
+Milestone 1.1 — Architecture Hardening
+Command: .venv\Scripts\python.exe -m pytest -q
+Runtime: Python 3.11.15, pytest 9.1.1
+154 passed in 7.43s
+Exit code: 0
+Checkpoints: 79, 137, 149 and 150 tests passed before final redaction coverage.
+Milestone 2 has not started.
+
+Dual-model OpenRouter configuration
+Command: .venv\Scripts\python.exe -m pytest -q
+178 passed in 8.56s
+Exit code: 0
+Git verification: .env and .env.local ignored; .env.example trackable at workspace and project levels.
+No API calls or Milestone 2 implementation.
